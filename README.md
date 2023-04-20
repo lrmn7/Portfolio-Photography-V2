@@ -10,9 +10,8 @@ Personal Portfolio Photography
 
 ## 💻 L RMN
 [Hosted on Vercel](https://vercel.com)
-[Hosted on Netlify](https://app.netlify.com)
 ## demo live
-https://lrmn-photos.netlify.app
+https://lrmn-photos.vercel.app/
 
 created with:
 - three js
